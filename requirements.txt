@@ -1,0 +1,17 @@
+streamlit
+python-dotenv
+
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+langchain-huggingface
+
+chromadb
+
+pypdf
+
+sentence-transformers
+huggingface-hub
+transformers
+torch
